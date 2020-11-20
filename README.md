@@ -23,7 +23,7 @@ docker-compose up -d
 ```
 
 ### Node
-To run with node the environment variables will nee to be set on the host system. Then run:
+To run with node the environment variables will need to be set on the host system. Then run:
 ```
 npm i
 npm start
